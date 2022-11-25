@@ -1,7 +1,7 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> john Wise is here.
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Ertugrul is here.
                 (Loading...)
-  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogan-oguz/)
-<a href="https://johnwise2022.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=johnwise" alt="visitor counter" width="15%"/>
+  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ertugrul-akkaya/)
+<a href="https://eakkaya64.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=johnwise" alt="visitor counter" width="15%"/>
 <!-- <p align="center">  </p> -->
 ### What I'm using ? :hammer_and_wrench:
    I prefer Amazon Web Services & DevOps Tools.
@@ -33,9 +33,9 @@
 </p>
 ## :bar_chart: Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=johnwise2022&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnwise2022&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwise2022&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=eakkaya64&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eakkaya64&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eakkaya64&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 (150 kB)
 https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 
